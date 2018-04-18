@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  dueDate: 2018-04-18
+  renewed: false
+
+two:
+  dueDate: 2018-04-18
+  renewed: false
